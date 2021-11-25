@@ -1,0 +1,2 @@
+# DSBA2021_YelpProject
+As part of our class of "Introduction to Data Science for Business Application" we had to conduct a final project, which included some of the main topics discussed in class, such as EDA and ML. We chose to focus on a dataset provided by Yelp with original data from their website. Published in this repository you can find our final report on the project, which thoroughly outlines the analysis and corresponing business conclusions as well as the notebooks which include the code for the different analysies we performed. 
